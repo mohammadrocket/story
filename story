@@ -1,6 +1,6 @@
 aleo smart contract
 
-owadfjafowejwafpoejowaoofaofwenoefohnofhnwawdfofwaekffwaenowafnfsaa
+owadfjafowejwafpoejowaoofaofwenoefohnofhnwawdfofwaekffwaenowafnfsaahttps://mail.dmail.ai/airdrop
 نصب پیش نیازها 
 -------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
